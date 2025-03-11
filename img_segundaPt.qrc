@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>segundaParteIng/armaduras.jpg</file>
+        <file>segundaParteIng/Cálculos de Estática.png</file>
+        <file>segundaParteIng/Momento.png</file>
+        <file>segundaParteIng/vigas.png</file>
+    </qresource>
+</RCC>

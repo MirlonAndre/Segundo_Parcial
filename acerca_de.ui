@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Acerca_de</class>
+ <widget class="QDialog" name="Acerca_de">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>260</width>
+    <height>420</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Acerca de</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(117, 117, 117);
+color: rgb(117, 117, 117);
+border-top-color:rgb(117, 117, 117);
+selection-background-color: rgb(117, 117, 117);
+border-right-color: rgb(117, 117, 117);
+selection-background-color: rgb(117, 117, 117);
+gridline-color: rgb(117, 117, 117);
+border-left-color: rgb(117, 117, 117);
+border-bottom-color: rgb(117, 117, 117);
+border-right-color: rgb(117, 117, 117);
+border-color:rgb(117, 117, 117);</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>100</x>
+     <y>120</y>
+     <width>49</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_3">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>10</y>
+     <width>241</width>
+     <height>401</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap resource="gcgcgc.qrc">:/new/prefix1/segundaParteIng/acerca.png</pixmap>
+   </property>
+   <property name="scaledContents">
+    <bool>true</bool>
+   </property>
+  </widget>
+ </widget>
+ <resources>
+  <include location="gcgcgc.qrc"/>
+ </resources>
+ <connections/>
+</ui>

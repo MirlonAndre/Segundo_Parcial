@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/"/>
+    <qresource prefix="/new/prefix1">
+        <file>img_logo/Armaduras_logo.jpg</file>
+        <file>img_logo/Esfuerzo cortante_logo.jpg</file>
+        <file>img_logo/Esfuerzo cortante_logo2.jpg</file>
+        <file>img_logo/momento_logo.jpg</file>
+        <file>img_logo/Vectores_logo.jpg</file>
+        <file>hhh.qrc</file>
+    </qresource>
+</RCC>

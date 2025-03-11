@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/"/>
+    <qresource prefix="/new/prefix1">
+        <file>otros/logo_uni.jpeg</file>
+        <file>otros/lll.qrc</file>
+    </qresource>
+</RCC>
